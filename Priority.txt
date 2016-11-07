@@ -1,0 +1,10 @@
+Priority
+----------------
+global service
+first-class price for an economy seat (from a premium executive)
+first-class price for an economy seat (from a premium)
+first-class price for an economy seat (from a standard passenger)
+premium executive
+premium
+economy seat ticket
+first-come first-serve (is this the waiting list? people who won tickets?)
